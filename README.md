@@ -1,6 +1,6 @@
 # Code Server Font Patch and Python 2020.7.1
 
-The font patcher just patches [code-server](https://github.com/cdr/code-server) to enable load fonts ([IBM Plex Mono](https://github.com/IBM/plex) and [Fira Mono For Powerline](https://github.com/powerline/fonts)) in server as well as Fira Code.
+The font patcher just patches [code-server](https://github.com/cdr/code-server) to enable load fonts ([IBM Plex Mono](https://github.com/IBM/plex) and [Fira Mono For Powerline](https://github.com/powerline/fonts)) in server as well as [Fira Code](https://github.com/ryanoasis/nerd-fonts/tree/master/patched-fonts/FiraCode/Medium/complete).
 
 ## Installation
 
